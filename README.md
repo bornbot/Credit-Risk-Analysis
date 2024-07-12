@@ -60,7 +60,7 @@ This Power BI file contains the Credit Risk Analysis Dashboard. The dashboard pr
 3. **Power BI Desktop**:
    - Download and install Power BI Desktop from the [official website](https://powerbi.microsoft.com/desktop/).
 
-## Contributing
+## Contributions
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project guidelines and is well-documented.
 
