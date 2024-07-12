@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or inquiries, please contact the project maintainer at [ojhasanskriti08.09@gmailcom].
+For questions or inquiries, please contact the project maintainer at [ojhasanskriti08.09@gmail.com].
